@@ -1,0 +1,11 @@
+{
+	"data":[{"id":1, "type":0, "date":10, "theme_buff":[0],"tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"明天天气不错"},
+    {"id":2, "type":0, "date":500, "theme_buff":[0],"tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"后天天气不错"},
+    {"id":3, "type":0, "date":600, "theme_buff":[0], "tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"空气质量不行"},
+    {"id":4, "type":0, "date":700, "theme_buff":[4,6], "tb_duration":100,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"修真、历史题材小说受到追捧"},
+	{"id":5, "type":0, "date":800, "theme_buff":[0], "tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[3,4],"eb_duration":80,"element_debuff":[0],"ed_duration":0,"text":"盗墓、架空题材小说受到追捧"},
+	{"id":6, "type":0, "date":900, "theme_buff":[0], "tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"新闻发布会"},
+    {"id":7, "type":0, "date":901, "theme_buff":[0], "tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"},
+    {"id":8, "type":0, "date":902, "theme_buff":[0], "tb_duration":0,"theme_debuff":[8],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"中国人民站起来了"},
+    {"id":9, "type":0, "date":3000, "theme_buff":[0], "tb_duration":0,"theme_debuff":[0],"td_duration":0,"element_buff":[0],"eb_duration":0,"element_debuff":[0],"ed_duration":0,"text":"猪肉降价"}]
+}

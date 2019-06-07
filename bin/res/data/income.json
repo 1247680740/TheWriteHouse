@@ -1,0 +1,8 @@
+﻿{
+	"data":[{"year":2001, "textTotal":1000, "userTotal":100000, "vermicelli":50,"userReward":20,"subPrice":0.02,"spreaMoney":50000},
+    {"year":2002, "textTotal":5000, "userTotal":200000, "vermicelli":100,"userReward":40,"subPrice":0.04,"spreaMoney":100000},
+    {"year":2003, "textTotal":10000, "userTotal":400000, "vermicelli":150, "userReward":60,"subPrice":0.06,"spreaMoney":150000},
+    {"year":2004, "textTotal":20000, "userTotal":600000, "vermicelli":200, "userReward":80,"subPrice":0.08,"spreaMoney":200000},
+	{"year":2005, "textTotal":30000, "userTotal":800000, "vermicelli":250, "userReward":100,"subPrice":0.1,"spreaMoney":250000},
+	{"year":2006, "textTotal":40000, "userTotal":1000000, "vermicelli":300, "userReward":120,"subPrice":0.12,"spreaMoney":300000}]
+}

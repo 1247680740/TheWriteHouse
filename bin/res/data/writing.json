@@ -1,0 +1,19 @@
+{
+	"data":[{"id":1, "theme":"奇幻", "sole":0, "unlock":1, "wonderful":[1,2,3,4], "perfect":[5,6,7,8], "event":0, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个奇幻题材的故事"},
+    {"id":2, "theme":"科幻", "sole":0, "unlock":1, "wonderful":[2,4], "perfect":[3,5], "event":0, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个科幻题材的故事"},
+    {"id":3, "theme":"武侠", "sole":0, "unlock":1, "wonderful":[2,5], "perfect":[5,6,7,8], "event":0, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个武侠题材的故事"},
+    {"id":4, "theme":"修真", "sole":0, "unlock":1, "wonderful":[2,7], "perfect":[2,6], "event":0, "cost":10, "weight":10, "standard":[15,10,8,7], "string":"一个修真题材的故事"},
+    {"id":5, "theme":"冒险", "sole":0, "unlock":1, "wonderful":[2,6], "perfect":[5,6,7,8], "event":0, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个冒险题材的故事"},
+    {"id":6, "theme":"历史", "sole":0, "unlock":0, "wonderful":[5,6,7,8], "perfect":[2,5,8], "event":4, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个历史题材的故事"},
+    {"id":7, "theme":"游戏", "sole":0, "unlock":0, "wonderful":[2,7], "perfect":[6,9], "event":5, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个游戏题材的故事"},
+    {"id":8, "theme":"无限", "sole":0, "unlock":0, "wonderful":[2,6], "perfect":[5,7,8], "event":6, "cost":10, "weight":10, "standard":[15,10,8,7], "string":"一个无限题材的故事"},
+    {"id":9, "theme":"灵异", "sole":0, "unlock":0, "wonderful":[2,3,6], "perfect":[5], "event":7, "cost":10, "weight":10, "standard":[5,10,5,10], "string":"一个灵异题材的故事"},
+    {"id":10, "theme":"现实", "sole":0, "unlock":0, "wonderful":[2,5], "perfect":[6,7,8], "event":8, "cost":10, "weight":10, "standard":[15,10,8,7], "string":"一个现实题材的故事"},
+    {"id":11, "theme":"三国演义", "sole":1, "unlock":1, "wonderful":[2,7], "perfect":[2,6], "event":0, "cost":10, "weight":1, "standard":[10,20,30,40], "string":"汉末时的三个国家之间的战争"},
+    {"id":12, "theme":"红楼梦", "sole":1, "unlock":1, "wonderful":[2,6], "perfect":[5,6,7,8], "event":0, "cost":10, "weight":1, "standard":[15,10,30,20], "string":"悲喜千般同幻梦,古今一梦尽荒唐"},
+    {"id":13, "theme":"西游记", "sole":1, "unlock":1, "wonderful":[5,6,7,8], "perfect":[2,5,8], "event":0, "cost":10, "weight":1, "standard":[10,20,30,41], "string":"一个和尚带着三个徒弟去西天取经的故事"},
+    {"id":14, "theme":"水浒传", "sole":1, "unlock":1, "wonderful":[2,7], "perfect":[6,9], "event":0, "cost":10, "weight":1, "standard":[15,10,30,21], "string":"北宋末年一百零八位好汉在梁山起义,以及聚义之后接受招安、四处征战的故事"},
+    {"id":15, "theme":"儒林外史", "sole":1, "unlock":0, "wonderful":[2,6], "perfect":[5,7,8], "event":4, "cost":10, "weight":1, "standard":[10,20,30,42], "string":"一部杰出的现实主义的长篇讽刺小说"},
+    {"id":16, "theme":"金瓶梅", "sole":1, "unlock":0, "wonderful":[2,3,6], "perfect":[5], "event":4, "cost":10, "weight":1, "standard":[15,10,30,22], "string":"西门大官人的幸福生活"},
+    {"id":17, "theme":"聊斋志异", "sole":1, "unlock":0, "wonderful":[2,5], "perfect":[6,7,8], "event":4, "cost":10, "weight":1, "standard":[10,20,30,41],  "string":"鬼故事"}]
+}

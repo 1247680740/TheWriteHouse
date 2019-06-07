@@ -1,0 +1,6 @@
+{
+	"data":[{"id":1,"step":1, "trigger":1, "name":"苏冰", "picture":1,"string":"你好!\n我是作家公寓的主编苏冰\n请多多关照"},
+    {"id":1, "step":2, "trigger":0, "name":"苏冰", "picture":2,"string":"现在让我们来招募一个作者来进行写作吧"},
+    {"id":2, "step":1, "trigger":0, "name":"苏冰", "picture":2,"string":"每年一次的夏季招聘会开始了，这是我们目前唯一接触到新作者的机会，我们去看看吧"},
+    {"id":2, "step":2, "trigger":0, "name":"苏冰", "picture":2,"string":"因为我们是初创的工作室，享受一次免费参加招聘会的优惠政策，一定要认真选，明年就要自己花钱了。"}]
+}

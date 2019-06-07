@@ -1,0 +1,10 @@
+{
+	"data":[{"id":1,"typeID":1, "name":"男", "type":1, "theme":[1,2,3],"buff1":[5,15,3],"element":[1,2,3],"buff2":[2,4,5],"cost":0.5},
+    {"id":2, "typeID":1, "name":"女", "type":2, "theme":[1,2,4],"buff1":[5,15,4],"element":[1,2,4],"buff2":[2,4,6],"cost":0.5},
+    {"id":3, "typeID":2, "name":"高", "type":1, "theme":[1,2,5], "buff1":[5,15,5],"element":[1,2,5],"buff2":[2,4,7],"cost":1},
+    {"id":4, "typeID":2, "name":"中", "type":2, "theme":[1,2,6], "buff1":[5,15,6],"element":[1,2,6],"buff2":[2,4,8],"cost":1},
+	{"id":5, "typeID":2, "name":"低", "type":3, "theme":[1,2,7], "buff1":[5,15,7],"element":[1,2,7],"buff2":[2,4,9],"cost":1},
+	{"id":6, "typeID":3, "name":"高", "type":1, "theme":[1,2,8], "buff1":[5,15,8],"element":[1,2,8],"buff2":[2,4,10],"cost":1},
+	{"id":7, "typeID":3, "name":"中", "type":2, "theme":[1,2,9], "buff1":[5,15,9],"element":[1,2,9],"buff2":[2,4,11],"cost":1},
+	{"id":8, "typeID":3, "name":"低", "type":3, "theme":[1,2,10], "buff1":[5,15,10],"element":[1,2,10],"buff2":[2,4,12],"cost":1}]
+}

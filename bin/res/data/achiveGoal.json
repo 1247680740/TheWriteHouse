@@ -1,0 +1,8 @@
+{
+	"data":[{"id":1,"name":"牛刀小试", "string":"完成一本小说", "icon":1, "reward":1, "aim":1},
+    {"id":2, "name":"更上一层楼", "string":"加盖一层楼", "icon":1, "reward":1, "aim":1},
+	{"id":3, "name":"人多力量大", "string":"拥有四名作者", "icon":1, "reward":1, "aim":4},
+	{"id":4, "name":"坚持就是胜利", "string":"游戏时间超过一小时", "icon":1, "reward":1, "aim":1},
+	{"id":5, "name":"榜上有名", "string":"作品获得一次大奖", "icon":1, "reward":1, "aim":1},
+	{"id":5, "name":"日进斗金", "string":"盈利超过500000", "icon":1, "reward":1, "aim":500000}]
+}
